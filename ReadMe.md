@@ -67,7 +67,9 @@ Build a temporary custom search engine with targeted list of sites
 - ### cree.py
     A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
     Creepy is a geolocation OSINT tool. Gathers geolocation related information from online sources, and allows for presentation on map, search filtering based on exact location and/or date, export in csv format or kml for further analysis in Google Maps.
+    <br />
     [Youtube](http://www.youtube.com/watch?v=JqJ4zaDIVAs)
+    <br />
     [geocreepy](https://www.geocreepy.com/)
 
 
